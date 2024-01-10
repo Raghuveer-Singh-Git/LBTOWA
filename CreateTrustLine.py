@@ -3,7 +3,7 @@ from pprint import pprint
 import sys
 
 #---------- Details Requried ----------#
-issuer_address = "##################################"
+issuer_address = "##################################" # Cold account address
 currency_code = input("Please Enter The Currency Code: ")
 reciver_seed = input("Please Enter your wallet seed: ")
 
