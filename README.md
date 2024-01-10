@@ -27,7 +27,7 @@ lorem
 ...
 
 ### Replicating Options - E.g. Reverse Iron Condor
-<img src="https://assets-global.website-files.com/5fba23eb8789c3c7fcfb5f31/600704d165d536960eb59357_ia1f9TZOxdYbVWXwcIF9tuX5qMEO5Aw9Lk63He2MY9BL8n8-pcXEE4EiaZv68ha6RjEugqB9SbOCsdUTrB2Qf0rB66c4ZGyTBOdWZckmfsN12Fif4DLQ_pmNNdXiYBoWrrFHqPYb.png" style="width: 200px">
+<img src="https://assets-global.website-files.com/5fba23eb8789c3c7fcfb5f31/600704d165d536960eb59357_ia1f9TZOxdYbVWXwcIF9tuX5qMEO5Aw9Lk63He2MY9BL8n8-pcXEE4EiaZv68ha6RjEugqB9SbOCsdUTrB2Qf0rB66c4ZGyTBOdWZckmfsN12Fif4DLQ_pmNNdXiYBoWrrFHqPYb.png" style="width: 400px">
 
 ...
 
