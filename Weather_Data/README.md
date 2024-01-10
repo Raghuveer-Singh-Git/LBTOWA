@@ -1,5 +1,5 @@
 # Data Source
-weatherapi.com
+We used  mainly used weatherapi.com.
 This API gave us 1000 free API calls per hour, which allowed us to experiment with different chunk sizes
 The API gave us a lot of information, including location name which helped us with formatting
 The API information was accurate and real-time, as we compared Singapore’s weather using the API and Google Weather to find no discrepancies
