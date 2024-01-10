@@ -3,8 +3,8 @@ from pprint import pprint
 import sys
 
 #---------------- Account Details -----------------#
-cold_wallet_seed = "sEd7hk1DEWYEC21EiDUmwJUUWfT4diN"
-hot_wallet_seed = "sEdVwioBsaM9gEZyVxzij7tMuH3yvAU"
+cold_wallet_seed = "###############################"
+hot_wallet_seed = "###############################"
 
 #---------------- Currency Details -----------------#
 currency_code = "TST" # 3 letter code
