@@ -39,6 +39,7 @@ Weather-based indices are measures of weather variables that are correlated with
 <img src="https://assets-global.website-files.com/5fba23eb8789c3c7fcfb5f31/600704d165d536960eb59357_ia1f9TZOxdYbVWXwcIF9tuX5qMEO5Aw9Lk63He2MY9BL8n8-pcXEE4EiaZv68ha6RjEugqB9SbOCsdUTrB2Qf0rB66c4ZGyTBOdWZckmfsN12Fif4DLQ_pmNNdXiYBoWrrFHqPYb.png" style="width: 400px">
 Farmers can experience loss of yield for many scenarios. Lack of precipitation (drought), too much precipitation (floods), too high, or too low temperatures all can cause drops or even total loss of yield. Farmers can hedge against these by buying the corresponding tokens. For instance, a farmer adversely affected by cool temperature and hot temperature may purchase ‘above’ tokens for 30°C while purchasing below tokens for 25°C (Replicating a Reverse Iron Condor). The farmer would then purchase enough tokens such that the value of their lost crop yield is replaced by the payout of the tokens in case of adverse weather. The farmer can further stagger his insurance purchases to fully protect the yield.
 
+
 For instance, if the farmer has a yield of $500 each January, and loses 10% of that yield for each 10mm decrease in precipitation, with a full yield at 200mm. The farmer will buy the 10%*$500=$50 of the 190mm precipitation ‘below’ tokens, $50 of the 180mm precipitation ‘below’ tokens and so on, allowing him to fully and most effectively insure his farm against a drop in rainfall.
 
 ## Future Work
