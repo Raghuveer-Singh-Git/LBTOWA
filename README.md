@@ -27,7 +27,8 @@ lorem
 ...
 
 ### Replicating Options - E.g. Reverse Iron Condor
-![Illustration of Reverse Iron Condor]([http://url/to/img.png](https://assets-global.website-files.com/5fba23eb8789c3c7fcfb5f31/600704d165d536960eb59357_ia1f9TZOxdYbVWXwcIF9tuX5qMEO5Aw9Lk63He2MY9BL8n8-pcXEE4EiaZv68ha6RjEugqB9SbOCsdUTrB2Qf0rB66c4ZGyTBOdWZckmfsN12Fif4DLQ_pmNNdXiYBoWrrFHqPYb.png)https://assets-global.website-files.com/5fba23eb8789c3c7fcfb5f31/600704d165d536960eb59357_ia1f9TZOxdYbVWXwcIF9tuX5qMEO5Aw9Lk63He2MY9BL8n8-pcXEE4EiaZv68ha6RjEugqB9SbOCsdUTrB2Qf0rB66c4ZGyTBOdWZckmfsN12Fif4DLQ_pmNNdXiYBoWrrFHqPYb.png)
+![600704d165d536960eb59357_ia1f9TZOxdYbVWXwcIF9tuX5qMEO5Aw9Lk63He2MY9BL8n8-pcXEE4EiaZv68ha6RjEugqB9SbOCsdUTrB2Qf0rB66c4ZGyTBOdWZckmfsN12Fif4DLQ_pmNNdXiYBoWrrFHqPYb](https://github.com/Raghuveer-Singh-Git/LBTOWA/assets/121863364/9a3555b6-b088-4774-9d52-d006b9318cf2)
+
 ...
 
 ## UI
