@@ -6,18 +6,26 @@ Problems with Current Insurance Models: The current insurance models lack adequa
 
 By creating a simple UI and weather futures trading platform HxH provides the solution to these challenges.
 
+## Our Structure
+...
+
 ## Our Products
-Lorem100
+based on index...
 
 ### Futures
 lorem
 
 ### Bets
+lorem
 
 ## How can our products be used by farmers to hedge against unpridictable weathers?
+...
 
 ### Futures
 ...
 
 ### Replicating Options - E.g. Reverse Iron Condor
+...
+
+## UI
 ...
