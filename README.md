@@ -13,7 +13,9 @@ By creating a simple UI and weather futures trading platform HxH provides the so
 based on index...
 
 ### Futures
-lorem
+- YTD
+- HDD
+- Direct Index based
 
 ### Bets
 lorem
