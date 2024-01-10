@@ -13,7 +13,8 @@ By creating a simple UI and weather futures trading platform HxH provides the so
 based on index...
 
 ### Futures
-* YTD
+* Year to Date (YTD)
+  - YTD futues will be based on a index which tracks the difference in YTD weather
 * HDD & CDD
   - The concept of Heating Degree Day (HDD) and Cooling Degree Day (CDD) indices originated from observations by engineers who noted that commercial buildings often required heating to maintain an indoor temperature of 70°F when daily mean outdoor temperatures fell below
   - 65°F. Conversely, air conditioning might be needed when temperatures rose significantly above 65°F. The mathematical expressions for HDD and CDD are as follows:
@@ -23,6 +24,7 @@ based on index...
   - The original HDD and CDD futures are based on cumulative values throughout a specific month. For example, an average daily temperature of 45°F corresponds to an HDD of 20 (65°F - 45°F). If the daily average temperature exceeds 65°F, the HDD for that day is zero. A monthly contract is cash settled at the cumulative value of HDDs recorded each day of the month.
   - Consider a month with 31 days, where the average daily temperature is 45°F. The cumulative monthly HDD would be 620 (31 days x 20). The futures contract value is determined by multiplying this figure by $20, resulting in a contract value of $12,400 (=$20 x 620) in this example.
 * Direct Index based
+  - Direct futures will simly track the underlying rain or temprature index
 
 ### Bets
 At the start of each month/period equal amounts of ‘above’ and ‘below’ tokens are created with the total price for 1 ‘above’, and 1 ‘below’ token being $1.01 (1 cent of which is our fee). The ‘above’ and ‘below’ tokens are initially priced based on weather forecasts, though the prices change and follow free market/AMM pricing models once trading starts.
