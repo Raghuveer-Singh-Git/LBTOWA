@@ -33,7 +33,7 @@ At the end of the month/period, when the data is available the tokens evaluate t
 ## How can our products be used to hedge against unpridictable weathers?
 
 ### Futures
-...
+Weather-based indices are measures of weather variables that are correlated with farmers’ losses and risks. They can be used to design and implement index insurance, which is a type of crop insurance that pays out when the weather index falls below or above a certain threshold. Index insurance can help farmers to cope with the impacts of climate change, such as droughts, floods, pests, and diseases, by providing them with financial protection and incentives to adopt climate-smart practices.
 
 ### Replicating Options - E.g. Reverse Iron Condor
 <img src="https://assets-global.website-files.com/5fba23eb8789c3c7fcfb5f31/600704d165d536960eb59357_ia1f9TZOxdYbVWXwcIF9tuX5qMEO5Aw9Lk63He2MY9BL8n8-pcXEE4EiaZv68ha6RjEugqB9SbOCsdUTrB2Qf0rB66c4ZGyTBOdWZckmfsN12Fif4DLQ_pmNNdXiYBoWrrFHqPYb.png" style="width: 400px">
