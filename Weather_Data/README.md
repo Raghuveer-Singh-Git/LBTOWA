@@ -16,3 +16,8 @@ Many locations had no name or marking, but some had a numerical value such as â€
 All longitudes for a given latitude would loop through first with the latitude being amended by a certain amount, after which the longitude would be changed by the same amount and the latitude would loop through again
 The smaller the amount, the more precise the collection. A value of 10 would require 1620 API calls, so we used a value of 20 at most for our tests unless we were focusing on a certain continent
 Finally, location, precipitation and temperature data was extracted from the API call and printed
+
+# Samples
+<img src="https://raw.githubusercontent.com/Raghuveer-Singh-Git/LBTOWA/main/Weather_Data/AustraliaNew.png" style="width:600px">
+<img src="https://raw.githubusercontent.com/Raghuveer-Singh-Git/LBTOWA/main/Weather_Data/weather-data-demo.png" style="width:600px">
+
