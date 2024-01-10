@@ -45,4 +45,7 @@ For instance, if the farmer has a yield of $500 each January, and loses 10% of t
 ...
 
 ## Future Work
-...
+Unfortunately XRPL does not have Smart Contracts integrated on chain yet. While the EVM sidechain is usable for a smart contract implementation, the smart contracts we would need designed would be complicated enough (oracle based-escrow function, token lock-up function, with the contract changing each time the token is traded) that the gas fees would make the insurance project unfeasible.
+
+As a solution, we will continue with our current method, and switch to XRPL hooks for the smart contract functions on layer 1 XRPL when hooks are added to the mainnet. This would allow us to execute the smart contract with lower fees, and allow the entire system to function in a decentralised manner, making it a trustless system.
+
