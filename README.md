@@ -5,3 +5,19 @@ The lack of access to quick and reliable insurance for farmers leaves them vulne
 Problems with Current Insurance Models: The current insurance models lack adequate coverage of the unique challenges faced by these communities and businesses. They may need to offer more coverage for the wide range of weather conditions and events that can impact these sectors. There’s a need for more robust and comprehensive insurance solutions that can provide stability and resilience in the face of these challenges.
 
 By creating a simple UI and weather futures trading platform HxH provides the solution to these challenges.
+
+## Our Products
+Lorem100
+
+### Futures
+lorem
+
+### Bets
+
+## How can our products be used by farmers to hedge against unpridictable weathers?
+
+### Futures
+...
+
+### Replicating Options - E.g. Reverse Iron Condor
+...
