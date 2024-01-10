@@ -4,7 +4,7 @@ In order to have an easier time checking how many tokens exist at all times, ins
 - The cold account will issue tokens by sending them through a payment transaction to the hot account. The created tokens will be sitting in the hot account as a reserve.
 - The hot account will be in charge of sending the tokens to our product buyers.
 
-If the system is hacked, the real issuer of the tokens remains unaffected (that’s why it’s called a cold account). 
+If the system is hacked, the real issuer of the tokens remains unaffected. 
 
 # Trading The Tokens
 One thing to note here is that token holders need to establish a trustline with the issuing (cold) account in order to be able to receive, hold, and use the token.
