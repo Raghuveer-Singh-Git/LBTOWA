@@ -41,11 +41,9 @@ Farmers can experience loss of yield for many scenarios. Lack of precipitation (
 
 For instance, if the farmer has a yield of $500 each January, and loses 10% of that yield for each 10mm decrease in precipitation, with a full yield at 200mm. The farmer will buy the 10%*$500=$50 of the 190mm precipitation ‘below’ tokens, $50 of the 180mm precipitation ‘below’ tokens and so on, allowing him to fully and most effectively insure his farm against a drop in rainfall.
 
-## UI
-...
-
 ## Future Work
 Unfortunately XRPL does not have Smart Contracts integrated on chain yet. While the EVM sidechain is usable for a smart contract implementation, the smart contracts we would need designed would be complicated enough (oracle based-escrow function, token lock-up function, with the contract changing each time the token is traded) that the gas fees would make the insurance project unfeasible.
 
-As a solution, we will continue with our current method, and switch to XRPL hooks for the smart contract functions on layer 1 XRPL when hooks are added to the mainnet. This would allow us to execute the smart contract with lower fees, and allow the entire system to function in a decentralised manner, making it a trustless system.
+As a solution, we will continue with our current method, and switch to XRPL hooks for the smart contract functions on layer 1 XRPL when hooks are added to the mainnet. This would allow us to execute the smart contract with lower fees, and allow the entire system to function in a decentralised manner, making it a trustless system, something safer for farmers to adopt.
+
 
