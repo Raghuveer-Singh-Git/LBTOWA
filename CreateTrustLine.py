@@ -3,9 +3,9 @@ from pprint import pprint
 import sys
 
 #---------- Details Requried ----------#
-issuer_address = "r4Y5RxkNBTUAUsNgkFH7gEJ5cg4ZUjA9wc"
+issuer_address = "##################################"
 currency_code = input("Please Enter The Currency Code: ")
-reciver_seed = input("Please Enter your wallet seed: ") # sEdVacRruNzeVpDC3cYCe9PBdPmkLHr
+reciver_seed = input("Please Enter your wallet seed: ")
 
 response = create_trust_line(issuer_address,currency_code,reciver_seed)
 if response.status._value_ != "success":
