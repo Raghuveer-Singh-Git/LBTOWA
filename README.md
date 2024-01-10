@@ -7,10 +7,9 @@ Problems with Current Insurance Models: The current insurance models lack adequa
 By creating a simple UI and weather futures trading platform HxH provides the solution to these challenges.
 
 ## Our Structure
-...
+We will be the central party to issue tokens for our products. The tokens will act as proof of purchase of our products. The tokens can be traded on the open market by the buyer creating "Tradable Insurance". On the settlement date tokens linkd to products with a non 0 value can be redimed through us. Bets are a limited loss product and hence no deposit other than the token cost will be required. For all unlimited loss products we will requite buyers to make refundable deposits.
 
 ## Our Products
-based on index...
 
 ### Futures
 * Year to Date (YTD)
@@ -24,7 +23,7 @@ based on index...
   - The original HDD and CDD futures are based on cumulative values throughout a specific month. For example, an average daily temperature of 45°F corresponds to an HDD of 20 (65°F - 45°F). If the daily average temperature exceeds 65°F, the HDD for that day is zero. A monthly contract is cash settled at the cumulative value of HDDs recorded each day of the month.
   - Consider a month with 31 days, where the average daily temperature is 45°F. The cumulative monthly HDD would be 620 (31 days x 20). The futures contract value is determined by multiplying this figure by $20, resulting in a contract value of $12,400 (=$20 x 620) in this example.
 * Direct Index based
-  - Direct futures will simly track the underlying rain or temprature index
+  - Direct futures will simply track the underlying rain or temprature index
 
 ### Bets
 At the start of each month/period equal amounts of ‘above’ and ‘below’ tokens are created with the total price for 1 ‘above’, and 1 ‘below’ token being $1.01 (1 cent of which is our fee). The ‘above’ and ‘below’ tokens are initially priced based on weather forecasts, though the prices change and follow free market/AMM pricing models once trading starts.
@@ -32,7 +31,6 @@ At the start of each month/period equal amounts of ‘above’ and ‘below’ t
 At the end of the month/period, when the data is available the tokens evaluate to either $1 or $0 based on the weather conditions. For instance, if the average daily temperature in Singapore is above 30 °C in January 2023 then a 33 °C January 2023 Singapore ‘above’ token will payout $1 to its owner, and a corresponding ‘below’ token would payout $0 to its owner. The tokens will function similarly for average precipitation by region.
 
 ## How can our products be used to hedge against unpridictable weathers?
-...
 
 ### Futures
 ...
