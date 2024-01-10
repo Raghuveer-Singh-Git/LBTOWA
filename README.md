@@ -18,7 +18,7 @@ lorem
 ### Bets
 lorem
 
-## How can our products be used by farmers to hedge against unpridictable weathers?
+## How can our products be used to hedge against unpridictable weathers?
 ...
 
 ### Futures
