@@ -15,16 +15,13 @@ based on index...
 ### Futures
 * YTD
 * HDD & CDD
-  - he concept of Heating Degree Day (HDD) and Cooling Degree Day (CDD) indices originated from observations by engineers who noted that commercial buildings often required heating to maintain an indoor temperature of 70°F when daily mean outdoor temperatures fell below 65°F. Conversely, air conditioning might be needed when temperatures rose significantly above 65°F. The mathematical expressions for HDD and CDD are as follows:
-
-HDD = Max(0, 65°F - daily average temperature)
-CDD = Max(0, daily average temperature - 65°F)
-
-For instance, if a day's average maximum and minimum temperature is 35°F, the HDD for that day is 30, and the CDD is 0.
-
-The original HDD and CDD futures are based on cumulative values throughout a specific month. For example, an average daily temperature of 45°F corresponds to an HDD of 20 (65°F - 45°F). If the daily average temperature exceeds 65°F, the HDD for that day is zero. A monthly contract is cash settled at the cumulative value of HDDs recorded each day of the month.
-
-Consider a month with 31 days, where the average daily temperature is 45°F. The cumulative monthly HDD would be 620 (31 days x 20). The futures contract value is determined by multiplying this figure by $20, resulting in a contract value of $12,400 (=$20 x 620) in this example.
+  - he concept of Heating Degree Day (HDD) and Cooling Degree Day (CDD) indices originated from observations by engineers who noted that commercial buildings often required heating to maintain an indoor temperature of 70°F when daily mean outdoor temperatures fell below
+  - 65°F. Conversely, air conditioning might be needed when temperatures rose significantly above 65°F. The mathematical expressions for HDD and CDD are as follows:
+  - HDD = Max(0, 65°F - daily average temperature)
+  - CDD = Max(0, daily average temperature - 65°F)
+  - For instance, if a day's average maximum and minimum temperature is 35°F, the HDD for that day is 30, and the CDD is 0.
+  - The original HDD and CDD futures are based on cumulative values throughout a specific month. For example, an average daily temperature of 45°F corresponds to an HDD of 20 (65°F - 45°F). If the daily average temperature exceeds 65°F, the HDD for that day is zero. A monthly contract is cash settled at the cumulative value of HDDs recorded each day of the month.
+  - Consider a month with 31 days, where the average daily temperature is 45°F. The cumulative monthly HDD would be 620 (31 days x 20). The futures contract value is determined by multiplying this figure by $20, resulting in a contract value of $12,400 (=$20 x 620) in this example.
 * Direct Index based
 
 ### Bets
