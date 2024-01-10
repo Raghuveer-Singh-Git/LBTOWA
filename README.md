@@ -15,7 +15,7 @@ based on index...
 ### Futures
 * YTD
 * HDD & CDD
-  - he concept of Heating Degree Day (HDD) and Cooling Degree Day (CDD) indices originated from observations by engineers who noted that commercial buildings often required heating to maintain an indoor temperature of 70°F when daily mean outdoor temperatures fell below
+  - The concept of Heating Degree Day (HDD) and Cooling Degree Day (CDD) indices originated from observations by engineers who noted that commercial buildings often required heating to maintain an indoor temperature of 70°F when daily mean outdoor temperatures fell below
   - 65°F. Conversely, air conditioning might be needed when temperatures rose significantly above 65°F. The mathematical expressions for HDD and CDD are as follows:
   - HDD = Max(0, 65°F - daily average temperature)
   - CDD = Max(0, daily average temperature - 65°F)
