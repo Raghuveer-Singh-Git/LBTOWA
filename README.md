@@ -7,7 +7,7 @@ Problems with Current Insurance Models: The current insurance models lack adequa
 By creating a simple UI and weather futures trading platform HxH provides the solution to these challenges.
 
 ## Our Structure
-We will be the central party to issue tokens for our products. The tokens will act as proof of purchase of our products. The tokens can be traded on the open market by the buyer creating "Tradable Insurance". On the settlement date tokens linkd to products with a non 0 value can be redimed through us. Bets are a limited loss product and hence no deposit other than the token cost will be required. For all unlimited loss products we will requite buyers to make refundable deposits.
+We will be the central party to issue tokens for our products. The tokens will act as proof of purchase of our products. The tokens can be traded on the open market by the buyer creating "Tradable Insurance". On the settlement date tokens linked to products with a non 0 value can be redimed through us. Bets are a limited loss product and hence no deposit other than the token cost will be required. For all unlimited loss products we will requite buyers to make refundable deposits.
 
 ## Our Products
 
