@@ -18,7 +18,9 @@ based on index...
 - Direct Index based
 
 ### Bets
-lorem
+At the start of each month/period equal amounts of ‘above’ and ‘below’ tokens are created with the total price for 1 ‘above’, and 1 ‘below’ token being $1.01 (1 cent of which is our fee). The ‘above’ and ‘below’ tokens are initially priced based on weather forecasts, though the prices change and follow free market/AMM pricing models once trading starts.
+
+At the end of the month/period, when the data is available the tokens evaluate to either $1 or $0 based on the weather conditions. For instance, if the average daily temperature in Singapore is above 30 °C in January 2023 then a 33 °C January 2023 Singapore ‘above’ token will payout $1 to its owner, and a corresponding ‘below’ token would payout $0 to its owner. The tokens will function similarly for average precipitation by region.
 
 ## How can our products be used to hedge against unpridictable weathers?
 ...
@@ -32,4 +34,7 @@ lorem
 ...
 
 ## UI
+...
+
+## Future Work
 ...
